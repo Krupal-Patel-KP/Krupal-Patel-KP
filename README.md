@@ -1,24 +1,22 @@
-<h1 align="center">Hi 👋, I'm Jaitun Patel</h1>
-<h3 align="center">A passionate Computer Science student at University of Manitoba</h3>
+<h1 align="center">Hi 👋, I'm Krupal Patel</h1>
+<h3 align="center">A passionate individual for data analyst</h3>
 
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+<img align="right" alt="coding" width="400" src="https://www.iiba.org/globalassets/iiba-analyst-catalyst/images/here-is-some-information-about-what-a-big-data-analyst-is-and-does-social.jpg">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jaitunpatel&label=Profile%20views&color=0e75b6&style=flat" alt="jaitunpatel" /> </p>
+- 🔭 I’m currently working on **PowerBi**
 
-- 🔭 I’m currently working on **OpenAlex-API**
+- 🌱 I’m currently learning **Python for data analytics**
 
-- 🌱 I’m currently learning **Software Engineering and Networks and Security**
+- 💬 Ask me about **Sql Server,Python,Powerbi,Tableau,Excel**
 
-- 💬 Ask me about **React, TypeScript, Java, Python**
+- 📫 How to reach me **krupalpatel747@gmail.com**
 
-- 📫 How to reach me **pateljj@myumanitoba.ca**
-
-- ⚡ Fun fact **Sometimes I think my computer science skills are so advanced that even my coffee maker asks for coding help when it gets stuck in a 'brew-loop'!**
+- ⚡ Fun fact **I have 5 friends, three of them (SqlServer,Excel,Python) help me to clean and analyze the raw data, and another 2 friends(PowerBi and Tableau) helps me in data Visualization**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/jaitun-patel/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jaitunpatel" height="30" width="40" /></a>
-<a href="https://www.instagram.com/jtpatel_24/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jtpatel_24" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/krupal-patel-kp/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="krupalpatel" height="30" width="40" /></a>
+<a href="https://www.instagram.com/krupal_patel_1605/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jtpatel_24" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
