@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Krupal Patel</h1>
-<h3 align="center">A passionate individual for data analyst</h3>
+<h3 align="center">A passionate individual for Data Analyst</h3>
 
 <img align="right" alt="coding" width="400" src="https://www.iiba.org/globalassets/iiba-analyst-catalyst/images/here-is-some-information-about-what-a-big-data-analyst-is-and-does-social.jpg">
 
