@@ -3,7 +3,7 @@
 
 <img align="right" alt="coding" width="400" src="https://www.iiba.org/globalassets/iiba-analyst-catalyst/images/here-is-some-information-about-what-a-big-data-analyst-is-and-does-social.jpg">
 
-- 🔭 I’m currently working on **PowerBi**
+- 🔭 I’m currently working on **Data Analysis**
 
 - 🌱 I’m currently learning **Python for data analytics**
 
